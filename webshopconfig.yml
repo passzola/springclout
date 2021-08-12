@@ -1,3 +1,4 @@
+#configration for product service
 server:
   port: 8081
 
